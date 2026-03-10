@@ -44,9 +44,9 @@ Dans le cadre de ce projet et conformément aux exigences de transparence, l'uti
 
 Voici un aperçu des prompts majeurs utilisés pour générer cette application :
 
-- **Prompt Initial (Setup & UI) :** *[INSERER ICI UN RESUME DE TON PREMIER PROMPT, ex: "Crée une landing page pour une agence de voyage temporel de luxe avec React, Tailwind et Framer Motion..."]*
-- **Prompt Chatbot (Mistral) :** *[INSERER ICI LE PROMPT POUR LE CHATBOT, ex: "Intègre un widget de chat flottant utilisant l'API Mistral AI avec un system prompt d'agent temporel..."]*
-- **Prompt Modales & Réservation :** *[INSERER ICI LE PROMPT POUR LES MODALES, ex: "Rends les boutons de réservation fonctionnels avec une modale à plusieurs étapes..."]*
+- **Prompt Initial (Setup & UI) :** *"Crée une landing page immersive pour une agence de voyage temporel de luxe appelée 'TimeTravel Agency'. Utilise React, Tailwind CSS (avec des tons sombres zinc et des accents ambrés) et Framer Motion pour des animations fluides. Inclus une section Hero avec un arrière-plan visuel fort, une galerie de destinations (Paris 1889, Crétacé, Florence 1504) sous forme de cartes interactives, et une section vidéo."*
+- **Prompt Chatbot (Mistral) :** *"Intègre un widget de chat flottant utilisant l'API Mistral AI (modèle mistral-small-latest). Le système prompt doit configurer l'IA comme l'assistant virtuel de TimeTravel Agency, un expert passionné d'histoire au ton professionnel mais chaleureux, capable de conseiller sur les destinations (Paris 1889, Crétacé, Florence 1504) et d'inventer des prix luxueux."*
+- **Prompt Modales & Réservation :** *"Rends les boutons de réservation fonctionnels en créant une modale de réservation interactive à plusieurs étapes (Détails du voyage, Informations personnelles, Confirmation) avec une barre de progression. Ajoute également une modale de quiz de personnalité pour suggérer une destination, et des modales pour les détails de chaque destination."*
 
 ## 💡 Réflexion sur le processus
 
