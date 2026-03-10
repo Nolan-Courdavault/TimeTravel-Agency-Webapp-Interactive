@@ -1,0 +1,6 @@
+Placez vos images et assets de la Session 1 dans ce dossier.
+
+Pour les utiliser dans vos composants React, vous pourrez simplement utiliser le chemin absolu commençant par `/assets/`.
+
+Exemple :
+<img src="/assets/mon-image.jpg" alt="Description" />
