@@ -2,8 +2,8 @@
 
 ## 🎬 Livrables du projet
 
-- **URL de la webapp (Vercel) :** [INSERER LE LIEN ICI]
-- **Repository GitHub :** [INSERER LE LIEN ICI]
+- **URL de la webapp (Vercel) :** [[INSERER LE LIEN ICI]](https://time-travel-agency-webapp-interactive-pwmd0xth0.vercel.app/)
+- **Repository GitHub :** [Repository GitHub](https://github.com/Nolan-Courdavault/TimeTravel-Agency-Webapp-Interactive.git)
 
 ---
 
